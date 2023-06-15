@@ -7,11 +7,17 @@
 
 ## 优秀代码仓库
 
-| 名称 | 描述 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
+|                             名称                             |                             描述                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    **[pydata-book](https://github.com/wesm/pydata-book)**    |         Python for Data Analysis, 3E 的代码和数据集          |
+| **[MachineLearningNotes](https://github.com/tsyw/MachineLearningNotes)** | B 站白板推到系列笔记仓库，记录了视频中的出现的机器学习相关的公式 |
+| **[Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)** |                    鸢尾花书——《编程不难》                    |
+| **[Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)** |                    鸢尾花书——《可视之美》                    |
+| **[Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)** |                    鸢尾花书——《数学要素》                    |
+| **[Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)** |                    鸢尾花书——《矩阵力量》                    |
+| **[Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)** |                    鸢尾花书——《统计至简》                    |
+| **[Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)** |                    鸢尾花书——《数据有道》                    |
+| **[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)** |                    鸢尾花书——《机器学习》                    |
 
 
 
@@ -21,6 +27,12 @@
 <summary>Python</summary>
 
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+</details>
+
+<details>
+<summary>人工智能</summary>
+
+- [【机器学习】【白板推导系列】【合集 1～33】](https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.337.search-card.all.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
 </details>
 
 <details>
