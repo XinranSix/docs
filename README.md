@@ -5,7 +5,23 @@
 - [毛星云（知乎）](https://www.zhihu.com/people/mao-xing-yun)
 - [毛星云（GitHub）](https://github.com/QianMo)
 
+## 优秀代码仓库
+
+| 名称 | 描述 |
+| :--: | :--: |
+|      |      |
+|      |      |
+|      |      |
+
+
+
 ## 文档和教程
+
+<details>
+<summary>Python</summary>
+
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+</details>
 
 <details>
 <summary>C++</summary>
