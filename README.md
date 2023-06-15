@@ -26,7 +26,6 @@
 <details>
 <summary>Python</summary>
 
-- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 </details>
 
 <details>
@@ -272,6 +271,7 @@
 - 《C++ Primer》
 - 《The Rust Programming Language》
 - 《Qt 6 C++ 开发指南》
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 
 
