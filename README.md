@@ -53,6 +53,12 @@
 </details>
 
 <details>
+<summary>嵌入式</summary>
+
+- [太极创客](http://www.taichi-maker.com/)
+</details>
+
+<details>
 <summary>Unity</summary>
 
 - [【unity2022入门第一季】整合Unity官方教程设计最佳学习路线，Unity精讲入门系列](https://www.bilibili.com/video/BV1Mr4y1X76H)
