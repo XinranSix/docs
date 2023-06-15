@@ -129,17 +129,17 @@
 <details>
 <summary>GAMES 101</summary>
 
-- [线性代数复习](https://xinransix.github.io/notes/notes/GAMES101/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%A4%8D%E4%B9%A0.html)
-- [变换](https://xinransix.github.io/notes/notes/GAMES101/%E5%8F%98%E6%8D%A2.html)
-- [光栅化](https://xinransix.github.io/notes/notes/GAMES101/%E5%85%89%E6%A0%85%E5%8C%96.html)
-- [着色](https://xinransix.github.io/notes/notes/GAMES101/%E7%9D%80%E8%89%B2.html)
-- [几何](https://xinransix.github.io/notes/notes/GAMES101/%E5%87%A0%E4%BD%95.html)
-- [光线追踪](https://xinransix.github.io/notes/notes/GAMES101/%E5%85%89%E7%BA%BF%E8%BF%BD%E8%B8%AA.html)
-- [材质与外观](https://xinransix.github.io/notes/notes/GAMES101/%E6%9D%90%E8%B4%A8%E4%B8%8E%E5%A4%96%E8%A7%82.html)
-- [颜色与感知](https://xinransix.github.io/notes/notes/GAMES101/%E9%A2%9C%E8%89%B2%E4%B8%8E%E6%84%9F%E7%9F%A5.html)
-- [高级渲染主题](https://xinransix.github.io/notes/notes/GAMES101/%E9%AB%98%E7%BA%A7%E6%B8%B2%E6%9F%93%E4%B8%BB%E9%A2%98.html)
-- [相机、镜头和光场](https://xinransix.github.io/notes/notes/GAMES101/%E7%9B%B8%E6%9C%BA%E3%80%81%E9%95%9C%E5%A4%B4%E5%92%8C%E5%85%89%E5%9C%BA.html)
-- [动画](https://xinransix.github.io/notes/notes/GAMES101/%E5%8A%A8%E7%94%BB.html)
+- [线性代数复习](https://xinransix.github.io/docs/GAMES101/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%A4%8D%E4%B9%A0.html)
+- [变换](https://xinransix.github.io/docs/GAMES101/%E5%8F%98%E6%8D%A2.html)
+- [光栅化](https://xinransix.github.io/docs/GAMES101/%E5%85%89%E6%A0%85%E5%8C%96.html)
+- [着色](https://xinransix.github.io/docs/GAMES101/%E7%9D%80%E8%89%B2.html)
+- [几何](https://xinransix.github.io/docs/GAMES101/%E5%87%A0%E4%BD%95.html)
+- [光线追踪](https://xinransix.github.io/docs/GAMES101/%E5%85%89%E7%BA%BF%E8%BF%BD%E8%B8%AA.html)
+- [材质与外观](https://xinransix.github.io/docs/GAMES101/%E6%9D%90%E8%B4%A8%E4%B8%8E%E5%A4%96%E8%A7%82.html)
+- [颜色与感知](https://xinransix.github.io/docs/GAMES101/%E9%A2%9C%E8%89%B2%E4%B8%8E%E6%84%9F%E7%9F%A5.html)
+- [高级渲染主题](https://xinransix.github.io/docs/GAMES101/%E9%AB%98%E7%BA%A7%E6%B8%B2%E6%9F%93%E4%B8%BB%E9%A2%98.html)
+- [相机、镜头和光场](https://xinransix.github.io/docs/GAMES101/%E7%9B%B8%E6%9C%BA%E3%80%81%E9%95%9C%E5%A4%B4%E5%92%8C%E5%85%89%E5%9C%BA.html)
+- [动画](https://xinransix.github.io/docs/GAMES101/%E5%8A%A8%E7%94%BB.html)
 
 </details>
 
@@ -151,35 +151,35 @@
 <details>
 <summary>数学</summary>
 
-- [线性代数](https://xinransix.github.io/notes/notes/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.html)
-- [四元数](https://xinransix.github.io/notes/notes/数学/四元数.html)
+- [线性代数](https://xinransix.github.io/docs/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.html)
+- [四元数](https://xinransix.github.io/docs/数学/四元数.html)
 </details>
 
 <details>
 <summary>计算机图形学</summary>
 
-- [四元数](https://xinransix.github.io/notes/notes/计算机图形学/OpenGL中的投影矩阵.html)
-- [法线矩阵](https://xinransix.github.io/notes/notes/计算机图形学/法线矩阵.html)
+- [四元数](https://xinransix.github.io/docs/计算机图形学/OpenGL中的投影矩阵.html)
+- [法线矩阵](https://xinransix.github.io/docs/计算机图形学/法线矩阵.html)
 </details>
 
 <details>
 <summary>C++</summary>
 
-- [C++基础](https://xinransix.github.io/notes/notes/CPP/C++基础.html)
-- [指针](https://xinransix.github.io/notes/notes/CPP/指针.html)
-- [运算符重载](https://xinransix.github.io/notes/notes/CPP/运算符重载.html)
-- [OOP](https://xinransix.github.io/notes/notes/CPP/OOP.html)
-- [IO](https://xinransix.github.io/notes/notes/CPP/IO.html)
-- [STL](https://xinransix.github.io/notes/notes/CPP/STL.html)
-- [Template](https://xinransix.github.io/notes/notes/CPP/Template.html)
-- [cmake](https://xinransix.github.io/notes/notes/CPP/cmake.html)
+- [C++基础](https://xinransix.github.io/docs/CPP/C++基础.html)
+- [指针](https://xinransix.github.io/docs/CPP/指针.html)
+- [运算符重载](https://xinransix.github.io/docs/CPP/运算符重载.html)
+- [OOP](https://xinransix.github.io/docs/CPP/OOP.html)
+- [IO](https://xinransix.github.io/docs/CPP/IO.html)
+- [STL](https://xinransix.github.io/docs/CPP/STL.html)
+- [Template](https://xinransix.github.io/docs/CPP/Template.html)
+- [cmake](https://xinransix.github.io/docs/CPP/cmake.html)
 </details>
 
 <details>
 <summary>C</summary>
 
-- [C语言入门](https://xinransix.github.io/notes/notes/C/C语言入门.html)
-- [数组](https://xinransix.github.io/notes/notes/C/数组.html)
+- [C语言入门](https://xinransix.github.io/docs/C/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8.html)
+- [数组](https://xinransix.github.io/docs/C/数组.html)
 </details>
 
 ## 工具汇总
