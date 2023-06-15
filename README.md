@@ -186,6 +186,7 @@
 
 - [C语言入门](https://xinransix.github.io/docs/C/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8.html)
 - [数组](https://xinransix.github.io/docs/C/数组.html)
+- [函数](https://xinransix.github.io/docs/C/函数.html)
 </details>
 
 ## 工具汇总
