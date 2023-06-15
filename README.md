@@ -80,6 +80,7 @@
 
 - [【官方双语】形象展示傅里叶变换](https://www.bilibili.com/video/BV1pW411J7s8/)
 - [麻省理工学院 - MIT - 线性代数（我愿称之为线性代数教程天花板）](https://www.bilibili.com/video/BV16Z4y1U7oU/)
+- [School of Mathematics](https://textbooks.math.gatech.edu/)
 </details>
 
 ## 博客
@@ -188,6 +189,12 @@
 - [数组](https://xinransix.github.io/docs/C/数组.html)
 - [函数](https://xinransix.github.io/docs/C/函数.html)
 - [预处理](https://xinransix.github.io/docs/C/预处理.html)
+- [指针](https://xinransix.github.io/docs/C/指针.html)
+- [动态内存申请](https://xinransix.github.io/docs/C/动态内存申请.html)
+- [字符串处理函数](https://xinransix.github.io/docs/C/字符串处理函数.html)
+- [结构体、共用体、枚举](https://xinransix.github.io/docs/C/结构体、共用体、枚举.html)
+- [链表](https://xinransix.github.io/docs/C/链表.html)
+- [文件](https://xinransix.github.io/docs/C/文件.html)
 </details>
 
 ## 工具汇总
