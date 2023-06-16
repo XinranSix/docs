@@ -22,7 +22,7 @@
 
 ## 资料、资源链接、工具汇总
 
-- [ ] |                             名称                             |                     描述                      |
+|                             名称                             |                     描述                      |
   | :----------------------------------------------------------: | :-------------------------------------------: |
   | **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
   |           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
