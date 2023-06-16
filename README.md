@@ -252,33 +252,33 @@
 
 |                             名称                             | 描述 |
 | :----------------------------------------------------------: | :--: |
-|            《Fundamentals of Computer Graphics》             |      |
-|                     《Real-Time Render》                     |      |
+|          **《Fundamentals of Computer Graphics》**           |      |
+|                   **《Real-Time Render》**                   |      |
 | [《GPU Gems》](https://developer.nvidia.com/gpugems/gpugems/foreword) |      |
-| [《GPU Gems 2》](https://developer.nvidia.com/gpugems/gpugems2/copyright) |      |
-| [《GPU Gems 3》](https://developer.nvidia.com/gpugems/gpugems3/foreword) |      |
+| [**《GPU Gems 2》**](https://developer.nvidia.com/gpugems/gpugems2/copyright) |      |
+| **[《GPU Gems 3》](https://developer.nvidia.com/gpugems/gpugems3/foreword)** |      |
 | [《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html) |      |
-| [《Game Programming Patterns》中文版](https://gpp.tkchu.me/) |      |
-|                         《GPU Pro》                          |      |
-|                        《GPU Pro 2》                         |      |
-|                        《GPU Pro 3》                         |      |
-|                        《GPU Pro 4》                         |      |
-|                        《GPU Pro 5》                         |      |
-|                        《GPU Pro 6》                         |      |
-|                        《GPU Pro 7》                         |      |
-|                         《GPU Zen》                          |      |
-|                  《Unity Shader 入门精要》                   |      |
-|                     《OpenGL 编程指南》                      |      |
-|                 《Vulkan Programming Guide》                 |      |
-|                     《线性代数及其应用》                     |      |
-|                 《3D 数学基础：图形和游戏》                  |      |
-|                     《全局光照算法技术》                     |      |
-|               《计算机图形学：几何体数据结构》               |      |
-|                       《数字图像处理》                       |      |
-|                        《C++ Primer》                        |      |
-|              《The Rust Programming Language》               |      |
-|                    《Qt 6 C++ 开发指南》                     |      |
-| [《Python for Data Analysis, 3E》](https://wesmckinney.com/book/) |      |
+| [**《Game Programming Patterns》中文版**](https://gpp.tkchu.me/) |      |
+|                       **《GPU Pro》**                        |      |
+|                      **《GPU Pro 2》**                       |      |
+|                      **《GPU Pro 3》**                       |      |
+|                      **《GPU Pro 4》**                       |      |
+|                      **《GPU Pro 5》**                       |      |
+|                      **《GPU Pro 6》**                       |      |
+|                      **《GPU Pro 7》**                       |      |
+|                       **《GPU Zen》**                        |      |
+|                **《Unity Shader 入门精要》**                 |      |
+|                   **《OpenGL 编程指南》**                    |      |
+|               **《Vulkan Programming Guide》**               |      |
+|                   **《线性代数及其应用》**                   |      |
+|               **《3D 数学基础：图形和游戏》**                |      |
+|                   **《全局光照算法技术》**                   |      |
+|             **《计算机图形学：几何体数据结构》**             |      |
+|                     **《数字图像处理》**                     |      |
+|                      **《C++ Primer》**                      |      |
+|            **《The Rust Programming Language》**             |      |
+|                  **《Qt 6 C++ 开发指南》**                   |      |
+| **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |      |
 
 
 
