@@ -7,19 +7,31 @@
 
 ## 优秀代码仓库
 
-|                             名称                             |                             描述                             |
+|                           **名称**                           |                           **描述**                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    **[pydata-book](https://github.com/wesm/pydata-book)**    |         Python for Data Analysis, 3E 的代码和数据集          |
-| **[MachineLearningNotes](https://github.com/tsyw/MachineLearningNotes)** | B 站白板推到系列笔记仓库，记录了视频中的出现的机器学习相关的公式 |
-| **[Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)** |                    鸢尾花书——《编程不难》                    |
-| **[Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)** |                    鸢尾花书——《可视之美》                    |
-| **[Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)** |                    鸢尾花书——《数学要素》                    |
-| **[Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)** |                    鸢尾花书——《矩阵力量》                    |
-| **[Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)** |                    鸢尾花书——《统计至简》                    |
-| **[Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)** |                    鸢尾花书——《数据有道》                    |
-| **[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)** |                    鸢尾花书——《机器学习》                    |
+|    **[pydata-book](https://github.com/wesm/pydata-book)**    |       **Python for Data Analysis, 3E 的代码和数据集**        |
+| **[MachineLearningNotes](https://github.com/tsyw/MachineLearningNotes)** | **B 站白板推到系列笔记仓库，记录了视频中的出现的机器学习相关的公式** |
+| **[Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)** |                  **鸢尾花书——《编程不难》**                  |
+| **[Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)** |                  **鸢尾花书——《可视之美》**                  |
+| **[Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)** |                  **鸢尾花书——《数学要素》**                  |
+| **[Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)** |                  **鸢尾花书——《矩阵力量》**                  |
+| **[Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)** |                  **鸢尾花书——《统计至简》**                  |
+| **[Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)** |                  **鸢尾花书——《数据有道》**                  |
+| **[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)** |                  **鸢尾花书——《机器学习》**                  |
+| **[Road2Coding](https://github.com/rd2coding/Road2Coding)**  |                 **CodeSheep 的学习路线仓库**                 |
 
+## 资料、资源链接、工具汇总
 
+|                             名称                             |                     描述                      |
+| :----------------------------------------------------------: | :-------------------------------------------: |
+| **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
+|           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
+|    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
+|  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
+|          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
+|         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
+|          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
+|          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
 
 ## 文档和教程
 
@@ -224,15 +236,6 @@
 - [文件](https://xinransix.github.io/docs/C/文件.html)
 </details>
 
-## 工具汇总
-
-- [WolframAlpha](https://www.wolframalpha.com/)
-- [desmos](https://www.desmos.com/calculator?lang=zh-CN)
-- [GeoGebra](https://www.geogebra.org/)
-- [数字帝国](https://zh.numberempire.com/)
-- [Diagrams](https://app.diagrams.net/)
-- [Excalidraw](https://excalidraw.com/)
-- [Zlibary](https://singlelogin.me/)
 
 ## 在线算法刷题
 
