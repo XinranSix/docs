@@ -22,16 +22,18 @@
 
 ## 资料、资源链接、工具汇总
 
-|                             名称                             |                     描述                      |
-| :----------------------------------------------------------: | :-------------------------------------------: |
-| **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
-|           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
-|    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
-|  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
-|          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
-|         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
-|          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
-|          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
+- [ ] |                             名称                             |                     描述                      |
+  | :----------------------------------------------------------: | :-------------------------------------------: |
+  | **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
+  |           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
+  |    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
+  |  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
+  |          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
+  |         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
+  |          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
+  |          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
+  | **[Integral Calculator](https://www.integral-calculator.com/)** |                   积分求解                    |
+
 
 ## 文档和教程
 
