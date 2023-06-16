@@ -256,7 +256,7 @@
 |                     《Real-Time Render》                     |      |
 | [《GPU Gems》](https://developer.nvidia.com/gpugems/gpugems/foreword) |      |
 | [《GPU Gems 2》](https://developer.nvidia.com/gpugems/gpugems2/copyright) |      |
-| [《GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword) |      |
+| [《GPU Gems 3》](https://developer.nvidia.com/gpugems/gpugems3/foreword) |      |
 | [《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html) |      |
 | [《Game Programming Patterns》中文版](https://gpp.tkchu.me/) |      |
 |                         《GPU Pro》                          |      |
