@@ -244,7 +244,7 @@
 <summary>Linux</summary>
 
 - [Linux基础命令](https://xinransix.github.io/docs/Linux/Linux基础命令.html)
-- [makefile](https://xinransix.github.io/docs/Linux/Linux系统编程/Makefile.html)
+- [Makefile](https://xinransix.github.io/docs/Linux/Linux系统编程/Makefile.html)
 </details>
 
 ## 在线算法刷题
