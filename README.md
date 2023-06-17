@@ -4,6 +4,7 @@
 
 - [毛星云（知乎）](https://www.zhihu.com/people/mao-xing-yun)
 - [毛星云（GitHub）](https://github.com/QianMo)
+- [陈皓（CSDN）](https://blog.csdn.net/haoel)
 
 ## 优秀代码仓库
 
@@ -54,6 +55,7 @@
 - [现代 C++ 教程](https://changkun.de/modern-cpp/zh-cn/00-preface/)
 - [learn C++](https://www.learncpp.com/)
 - [cppreference](https://en.cppreference.com/w/cpp/header)
+- [CSDN 陈皓专栏](https://haoel.blog.csdn.net/category_9198.html)
 </details>
 
 <details>
@@ -238,6 +240,11 @@
 - [文件](https://xinransix.github.io/docs/C/文件.html)
 </details>
 
+<details>
+<summary>Linux</summary>
+
+- [Linux基础命令](https://xinransix.github.io/docs/Linux/Linux基础命令.htmll)
+</details>
 
 ## 在线算法刷题
 
