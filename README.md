@@ -289,7 +289,7 @@
 |            **《The Rust Programming Language》**             |                                                   |
 |                  **《Qt 6 C++ 开发指南》**                   |                                                   |
 | **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |                                                   |
-|              **《现代 C++ 语言核心特性解析》**               | 作者：谢丙堃，一书介绍了 C++ 11 ~ C++ 20 的新特性 |
+| **[《现代 C++ 语言核心特性解析》](https://github.com/XinranSix/docs/blob/main/books/%E7%8E%B0%E4%BB%A3C%2B%2B%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%E8%A7%A3%E6%9E%90%202021%20(%E8%B0%A2%E4%B8%99%E5%A0%83)%20(Z-Library).pdf)** | 作者：谢丙堃，一书介绍了 C++ 11 ~ C++ 20 的新特性 |
 
 
 
