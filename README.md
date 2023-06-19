@@ -136,6 +136,8 @@
 - [fmt：现代的 C++ 字符串格式化库，实现了 C++20 的特征](https://www.jianshu.com/p/fdca0fde50ac)
 - [《C++面向对象程序设计》✍千处细节、万字总结（建议收藏）](https://blog.csdn.net/weixin_44368437/article/details/117563488?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168600737516800211529091%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168600737516800211529091&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-117563488-null-null.142^v88^control_2,239^v2^insert_chatgpt&utm_term=c%2B%2B&spm=1018.2226.3001.4187)
 - [C++教程(最全)](https://blog.csdn.net/qq_33670157/article/details/104455787?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168600737516800211529091%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168600737516800211529091&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-104455787-null-null.142^v88^control_2,239^v2^insert_chatgpt&utm_term=c%2B%2B&spm=1018.2226.3001.4187)
+- [现代 C++：一文读懂智能指针](https://zhuanlan.zhihu.com/p/150555165)
+- [C++11中智能指针的原理、使用、实现](https://zhuanlan.zhihu.com/p/150555165)
 </details>
 
 <details>
@@ -258,35 +260,36 @@
 
 ## 参考书目
 
-|                             名称                             | 描述 |
-| :----------------------------------------------------------: | :--: |
-|          **《Fundamentals of Computer Graphics》**           |      |
-|                   **《Real-Time Render》**                   |      |
-| [《GPU Gems》](https://developer.nvidia.com/gpugems/gpugems/foreword) |      |
-| [**《GPU Gems 2》**](https://developer.nvidia.com/gpugems/gpugems2/copyright) |      |
-| **[《GPU Gems 3》](https://developer.nvidia.com/gpugems/gpugems3/foreword)** |      |
-| [《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html) |      |
-| [**《Game Programming Patterns》中文版**](https://gpp.tkchu.me/) |      |
-|                       **《GPU Pro》**                        |      |
-|                      **《GPU Pro 2》**                       |      |
-|                      **《GPU Pro 3》**                       |      |
-|                      **《GPU Pro 4》**                       |      |
-|                      **《GPU Pro 5》**                       |      |
-|                      **《GPU Pro 6》**                       |      |
-|                      **《GPU Pro 7》**                       |      |
-|                       **《GPU Zen》**                        |      |
-|                **《Unity Shader 入门精要》**                 |      |
-|                   **《OpenGL 编程指南》**                    |      |
-|               **《Vulkan Programming Guide》**               |      |
-|                   **《线性代数及其应用》**                   |      |
-|               **《3D 数学基础：图形和游戏》**                |      |
-|                   **《全局光照算法技术》**                   |      |
-|             **《计算机图形学：几何体数据结构》**             |      |
-|                     **《数字图像处理》**                     |      |
-|                      **《C++ Primer》**                      |      |
-|            **《The Rust Programming Language》**             |      |
-|                  **《Qt 6 C++ 开发指南》**                   |      |
-| **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |      |
+|                             名称                             |                       描述                        |
+| :----------------------------------------------------------: | :-----------------------------------------------: |
+|          **《Fundamentals of Computer Graphics》**           |                                                   |
+|                   **《Real-Time Render》**                   |                                                   |
+| [《GPU Gems》](https://developer.nvidia.com/gpugems/gpugems/foreword) |                                                   |
+| [**《GPU Gems 2》**](https://developer.nvidia.com/gpugems/gpugems2/copyright) |                                                   |
+| **[《GPU Gems 3》](https://developer.nvidia.com/gpugems/gpugems3/foreword)** |                                                   |
+| [《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html) |                                                   |
+| [**《Game Programming Patterns》中文版**](https://gpp.tkchu.me/) |                                                   |
+|                       **《GPU Pro》**                        |                                                   |
+|                      **《GPU Pro 2》**                       |                                                   |
+|                      **《GPU Pro 3》**                       |                                                   |
+|                      **《GPU Pro 4》**                       |                                                   |
+|                      **《GPU Pro 5》**                       |                                                   |
+|                      **《GPU Pro 6》**                       |                                                   |
+|                      **《GPU Pro 7》**                       |                                                   |
+|                       **《GPU Zen》**                        |                                                   |
+|                **《Unity Shader 入门精要》**                 |                                                   |
+|                   **《OpenGL 编程指南》**                    |                                                   |
+|               **《Vulkan Programming Guide》**               |                                                   |
+|                   **《线性代数及其应用》**                   |                                                   |
+|               **《3D 数学基础：图形和游戏》**                |                                                   |
+|                   **《全局光照算法技术》**                   |                                                   |
+|             **《计算机图形学：几何体数据结构》**             |                                                   |
+|                     **《数字图像处理》**                     |                                                   |
+|                      **《C++ Primer》**                      |                                                   |
+|            **《The Rust Programming Language》**             |                                                   |
+|                  **《Qt 6 C++ 开发指南》**                   |                                                   |
+| **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |                                                   |
+|              **《现代 C++ 语言核心特性解析》**               | 作者：谢丙堃，一书介绍了 C++ 11 ~ C++ 20 的新特性 |
 
 
 
