@@ -274,13 +274,13 @@
 
 |                             名称                             |                       描述                        |
 | :----------------------------------------------------------: | :-----------------------------------------------: |
-|          **《Fundamentals of Computer Graphics》**           |                                                   |
-|                   **《Real-Time Render》**                   |                                                   |
+|          **《Fundamentals of Computer Graphics》**           |                     「虎书」                      |
+|                   **《Real-Time Render》**                   |                 实时渲染必读书籍                  |
 | [《GPU Gems》](https://developer.nvidia.com/gpugems/gpugems/foreword) |                                                   |
 | [**《GPU Gems 2》**](https://developer.nvidia.com/gpugems/gpugems2/copyright) |                                                   |
 | **[《GPU Gems 3》](https://developer.nvidia.com/gpugems/gpugems3/foreword)** |                                                   |
-| [《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html) |                                                   |
-| [**《Game Programming Patterns》中文版**](https://gpp.tkchu.me/) |                                                   |
+| **[《Game Programming Patterns》](http://gameprogrammingpatterns.com/contents.html)** |                游戏编程模式在线版                 |
+| [**《Game Programming Patterns》中文版**](https://gpp.tkchu.me/) |              游戏编程模式中文在线版               |
 |                       **《GPU Pro》**                        |                                                   |
 |                      **《GPU Pro 2》**                       |                                                   |
 |                      **《GPU Pro 3》**                       |                                                   |
@@ -297,10 +297,10 @@
 |                   **《全局光照算法技术》**                   |                                                   |
 |             **《计算机图形学：几何体数据结构》**             |                                                   |
 |                     **《数字图像处理》**                     |                                                   |
-|                      **《C++ Primer》**                      |                                                   |
-|            **《The Rust Programming Language》**             |                                                   |
+|                      **《C++ Primer》**                      |                   C++ 必读书籍                    |
+|            **《The Rust Programming Language》**             |                Rust 编程的入门书籍                |
 |                  **《Qt 6 C++ 开发指南》**                   |                                                   |
-| **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |                                                   |
+| **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |    使用 Python 进行数据分析第三版的电子书版本     |
 | **[《现代 C++ 语言核心特性解析》](https://github.com/XinranSix/docs/blob/main/books/%E7%8E%B0%E4%BB%A3C%2B%2B%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%E8%A7%A3%E6%9E%90%202021%20(%E8%B0%A2%E4%B8%99%E5%A0%83)%20(Z-Library).pdf)** | 作者：谢丙堃，一书介绍了 C++ 11 ~ C++ 20 的新特性 |
 
 
