@@ -20,7 +20,6 @@
 | **[Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)** |                  **鸢尾花书——《数据有道》**                  |
 | **[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)** |                  **鸢尾花书——《机器学习》**                  |
 | **[Road2Coding](https://github.com/rd2coding/Road2Coding)**  |                 **CodeSheep 的学习路线仓库**                 |
-| **[Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)** |              **《Unity Shader入门精要》源代码**              |
 
 ## 资料、资源链接、工具汇总
 
@@ -104,8 +103,8 @@
 - [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
 - [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 - [3D Game Engine Programming](https://www.3dgep.com/)
-</details>
 - [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
+
 <details>
 <summary>嵌入式</summary>
 
@@ -116,7 +115,6 @@
 <summary>Unity</summary>
 
 - [【unity2022入门第一季】整合Unity官方教程设计最佳学习路线，Unity精讲入门系列](https://www.bilibili.com/video/BV1Mr4y1X76H)
-
 </details>
 
 <details>
@@ -126,7 +124,6 @@
 - [【合集8.21已更新93话】Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX/)
 - [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
 - [冒死上传！目前B站最完整的绘画教程，包含所有绘画风格！插画|厚涂|原画|板绘!](https://www.bilibili.com/video/BV1d64y197gj/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
-- [Blender 快捷键](https://shimo.im/sheets/oSMugmKgw2M9nFCn/MODOC?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODQ3NTg5ODYsImZpbGVHVUlEIjoiY2tZUTh4cTZKaFZ0ckdqaCIsImlhdCI6MTY4NDc1ODY4NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzk5NTc1NzQzM30.3pIjNzNbNSVF28rF9q8cK0yHIjcQ42EBobo5m133xs8)
 </details>
 
 <details>
