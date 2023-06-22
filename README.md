@@ -21,6 +21,8 @@
 | **[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)** |                  **鸢尾花书——《机器学习》**                  |
 | **[Road2Coding](https://github.com/rd2coding/Road2Coding)**  |                 **CodeSheep 的学习路线仓库**                 |
 | **[Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)** |              **《Unity Shader入门精要》源代码**              |
+|    **[CS-Base](https://github.com/xiaolincoder/CS-Base)**    |                  **小林 x 图解计算机基础**                   |
+|           **[CLRS](https://github.com/gzc/CLRS)**            | **Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (CLRS)** |
 
 ## 资料、资源链接、工具汇总
 
@@ -43,14 +45,9 @@
 <details>
 <summary>计算机通识</summary>
 
-&emsp;
-<div style="display:inline">
-<details>
-<summary>计算机网络</summary>
-
-
-</details>
-</div>
+- [中科大郑烇、杨坚全套《计算机网络（自顶向下方法 第7版，James F.Kurose，Keith W.Ross）》课程](https://www.bilibili.com/video/BV1JV411t7ow/?spm_id_from=333.337.search-card.all.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
+- [小林 x 图解计算机基础](https://xiaolincoding.com/)
+- [代码随想录](https://www.programmercarl.com/)
 </details>
 <details>
 <summary>Python</summary>
