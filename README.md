@@ -24,17 +24,16 @@
 ## 资料、资源链接、工具汇总
 
 |                             名称                             |                     描述                      |
-| :----------------------------------------------------------: | :-------------------------------------------: |
-| **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
-|           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
-|    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
-|  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
-|          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
-|         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
-|          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
-|          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
-| **[Integral Calculator](https://www.integral-calculator.com/)** |                   积分求解                    |
-| **[《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)** |     《Unity Shader 入门精要》随书彩色插图     |
+  | :----------------------------------------------------------: | :-------------------------------------------: |
+  | **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
+  |           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
+  |    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
+  |  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
+  |          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
+  |         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
+  |          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
+  |          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
+  | **[Integral Calculator](https://www.integral-calculator.com/)** |                   积分求解                    |
 
 
 ## 文档和教程
@@ -101,9 +100,10 @@
 - [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
 - [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
 - [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
+- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
 - [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 - [3D Game Engine Programming](https://www.3dgep.com/)
-- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
+</details>
 
 <details>
 <summary>嵌入式</summary>
@@ -115,6 +115,7 @@
 <summary>Unity</summary>
 
 - [【unity2022入门第一季】整合Unity官方教程设计最佳学习路线，Unity精讲入门系列](https://www.bilibili.com/video/BV1Mr4y1X76H)
+- [《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)
 </details>
 
 <details>
@@ -124,6 +125,7 @@
 - [【合集8.21已更新93话】Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX/)
 - [3D建模教程，3dmax，MAYA，zbrush，3d建模基础教学全套](https://www.bilibili.com/video/BV1pA411j7pa/)
 - [冒死上传！目前B站最完整的绘画教程，包含所有绘画风格！插画|厚涂|原画|板绘!](https://www.bilibili.com/video/BV1d64y197gj/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=76a5184e318e57fe3ff6a57c443142ad)
+- [Blender 快捷键](https://shimo.im/sheets/oSMugmKgw2M9nFCn/MODOC?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2ODQ3NTg5ODYsImZpbGVHVUlEIjoiY2tZUTh4cTZKaFZ0ckdqaCIsImlhdCI6MTY4NDc1ODY4NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzk5NTc1NzQzM30.3pIjNzNbNSVF28rF9q8cK0yHIjcQ42EBobo5m133xs8)
 </details>
 
 <details>
