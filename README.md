@@ -43,11 +43,14 @@
 <details>
 <summary>计算机通识</summary>
 
+&emsp;
+<div style="display:inline">
 <details>
 <summary>计算机网络</summary>
 
 
 </details>
+</div>
 </details>
 <details>
 <summary>Python</summary>
