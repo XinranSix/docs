@@ -41,6 +41,15 @@
 ## 文档和教程
 
 <details>
+<summary>计算机通识</summary>
+
+<details>
+<summary>计算机网络</summary>
+
+
+</details>
+</details>
+<details>
 <summary>Python</summary>
 
 </details>
