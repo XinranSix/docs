@@ -20,20 +20,22 @@
 | **[Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)** |                  **鸢尾花书——《数据有道》**                  |
 | **[Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)** |                  **鸢尾花书——《机器学习》**                  |
 | **[Road2Coding](https://github.com/rd2coding/Road2Coding)**  |                 **CodeSheep 的学习路线仓库**                 |
+| **[Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)** |              **《Unity Shader入门精要》源代码**              |
 
 ## 资料、资源链接、工具汇总
 
 |                             名称                             |                     描述                      |
-  | :----------------------------------------------------------: | :-------------------------------------------: |
-  | **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
-  |           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
-  |    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
-  |  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
-  |          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
-  |         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
-  |          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
-  |          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
-  | **[Integral Calculator](https://www.integral-calculator.com/)** |                   积分求解                    |
+| :----------------------------------------------------------: | :-------------------------------------------: |
+| **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
+|           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
+|    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
+|  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
+|          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
+|         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
+|          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
+|          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
+| **[Integral Calculator](https://www.integral-calculator.com/)** |                   积分求解                    |
+| **[《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)** |     《Unity Shader 入门精要》随书彩色插图     |
 
 
 ## 文档和教程
@@ -89,21 +91,21 @@
 <summary>WebGL</summary>
 
 - [WebGL 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)
+- [WebGL2 理论基础](https://webgl2fundamentals.org/webgl/lessons/zh_cn/)
 </details>
 
 <details>
 <summary>计算机图形学</summary>
 
-- [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 - [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744/)
 - [GAMES104：现代游戏引擎：从入门到实践](https://games-cn.org/games104/)
 - [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
 - [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
 - [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
-- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
+- [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 - [3D Game Engine Programming](https://www.3dgep.com/)
 </details>
-
+- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
 <details>
 <summary>嵌入式</summary>
 
@@ -114,7 +116,7 @@
 <summary>Unity</summary>
 
 - [【unity2022入门第一季】整合Unity官方教程设计最佳学习路线，Unity精讲入门系列](https://www.bilibili.com/video/BV1Mr4y1X76H)
-- [《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)
+
 </details>
 
 <details>
