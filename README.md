@@ -102,9 +102,9 @@
 - [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
 - [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
 - [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
-- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
 - [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io/)
 - [3D Game Engine Programming](https://www.3dgep.com/)
+- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
 </details>
 
 <details>
