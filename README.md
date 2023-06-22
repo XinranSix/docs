@@ -54,6 +54,12 @@
 
 - [现代 C++ 教程](https://changkun.de/modern-cpp/zh-cn/00-preface/)
 - [learn C++](https://www.learncpp.com/)
+- [C / C++ User Group](http://www.hal9k.com/cug/)
+- [Free C / C++ Libraries, Source Code and Frameworks](https://www.thefreecountry.com/sourcecode/cpp.shtml)
+- [C++ Programming](https://en.wikibooks.org/wiki/C++_Programming)
+- [C++ Standard Library headers](https://en.cppreference.com/w/cpp/header)
+- [Learn C++](https://www.learncpp.com/)
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 - [cppreference](https://en.cppreference.com/w/cpp/header)
 - [CSDN 陈皓专栏](https://haoel.blog.csdn.net/category_9198.html)
 </details>
@@ -75,6 +81,8 @@
 
 - [LearnOpenGL CN](https://learnopengl-cn.github.io/)
 - [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
+- [Built-in Variable (GLSL)](https://www.khronos.org/opengl/wiki/Built-in_Variable_(GLSL))
+- [docs.GL (OpenGL API Documentation)](https://docs.gl/)
 </details>
 
 <details>
@@ -92,7 +100,8 @@
 - [GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc/)
 - [GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY/)
 - [清华大学-计算机图形学基础（国家级精品课）](https://www.bilibili.com/video/BV13441127CH/)
-- [ 百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
+- [百人计划总目录](https://docs.qq.com/doc/DUFlzT3ByV2tHanpT?&u=609906034bb74e02af5f81a9b3e38a9f)
+- [3D Game Engine Programming](https://www.3dgep.com/)
 </details>
 
 <details>
