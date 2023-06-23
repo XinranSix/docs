@@ -245,7 +245,7 @@
 - [IO](https://xinransix.github.io/docs/CPP/IO.html)
 - [STL](https://xinransix.github.io/docs/CPP/STL.html)
 - [Template](https://xinransix.github.io/docs/CPP/Template.html)
-- [cmake](https://xinransix.github.io/docs/CPP/cmake.html)
+- [CMake](https://xinransix.github.io/docs/CPP/CMake.html)
 </details>
 
 <details>
