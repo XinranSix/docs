@@ -28,18 +28,19 @@
 
 ## 资料、资源链接、工具汇总
 
-|                             名称                             |                     描述                      |
-| :----------------------------------------------------------: | :-------------------------------------------: |
-| **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** | CodeSheep 制作的 Linux 速查手册，提取码：x6we |
-|           **[ambientCG](https://ambientcg.com/)**            |             一个 PBR 材质下载网站             |
-|    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |           一个 LaTex 在线公式编辑器           |
-|  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |             一个画函数图像的工具              |
-|          **[GeoGebra](https://www.geogebra.org/)**           |            一个强大的数学作图工具             |
-|         **[数字帝国](https://zh.numberempire.com/)**         |              提供了很多数学工具               |
-|          **[Diagrams](https://app.diagrams.net/)**           |             适合程序员的制图工具              |
-|          **[Excalidraw](https://excalidraw.com/)**           |        适合程序员的手绘风格的制图工具         |
-| **[Integral Calculator](https://www.integral-calculator.com/)** |                   积分求解                    |
-| **[《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)** |     《Unity Shader入门精要》随书彩色插图      |
+|                             名称                             |                             描述                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **[Linux速查备忘手册手工制作版](https://pan.baidu.com/share/init?surl=Xub98JU3rBIoYiUgn8AOgg)** |        CodeSheep 制作的 Linux 速查手册，提取码：x6we         |
+|           **[ambientCG](https://ambientcg.com/)**            |                    一个 PBR 材质下载网站                     |
+|    **[LaTeX公式编辑器](https://www.latexlive.com/home)**     |                  一个 LaTex 在线公式编辑器                   |
+|  **[desmos](https://www.desmos.com/calculator?lang=zh-CN)**  |                     一个画函数图像的工具                     |
+|          **[GeoGebra](https://www.geogebra.org/)**           |                    一个强大的数学作图工具                    |
+|         **[数字帝国](https://zh.numberempire.com/)**         |                      提供了很多数学工具                      |
+|          **[Diagrams](https://app.diagrams.net/)**           |                     适合程序员的制图工具                     |
+|          **[Excalidraw](https://excalidraw.com/)**           |                适合程序员的手绘风格的制图工具                |
+| **[Integral Calculator](https://www.integral-calculator.com/)** |                           积分求解                           |
+| **[《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)** |             《Unity Shader入门精要》随书彩色插图             |
+|        **[Compiler Explorer](https://godbolt.org/)**         | 在线 C++ 编译器，可用来分析汇编、做编译器兼容性测试、原型测试、支持 C++ 各种编译器的各种版本，还支持 Java、Python、Go 等语言。 |
 
 
 ## 文档和教程
@@ -65,6 +66,7 @@
 <details>
 <summary>C++</summary>
 
+- [hacking C++](https://hackingcpp.com/)
 - [现代 C++ 教程](https://changkun.de/modern-cpp/zh-cn/00-preface/)
 - [learn C++](https://www.learncpp.com/)
 - [C / C++ User Group](http://www.hal9k.com/cug/)
