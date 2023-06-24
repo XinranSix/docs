@@ -23,6 +23,7 @@
 | **[Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)** |              **《Unity Shader入门精要》源代码**              |
 |    **[CS-Base](https://github.com/xiaolincoder/CS-Base)**    |                  **小林 x 图解计算机基础**                   |
 |           **[CLRS](https://github.com/gzc/CLRS)**            | **Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (CLRS)** |
+| **[Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)** | **课程视频、PPT 和源代码：侯捷 C++ 系列；台大郭彦甫 MATLAB** |
 
 ## 资料、资源链接、工具汇总
 
@@ -298,10 +299,10 @@
 |                      **《GPU Pro 6》**                       |                                                   |
 |                      **《GPU Pro 7》**                       |                                                   |
 |                       **《GPU Zen》**                        |                                                   |
-|                **《Unity Shader 入门精要》**                 |                                                   |
-|                   **《OpenGL 编程指南》**                    |                                                   |
+|                **《Unity Shader 入门精要》**                 |               Unity Shader 入门书籍               |
+|                   **《OpenGL 编程指南》**                    |      OpenGL 入门书籍，没有图形学基础不建议看      |
 |               **《Vulkan Programming Guide》**               |                                                   |
-|                   **《线性代数及其应用》**                   |                                                   |
+|                   **《线性代数及其应用》**                   |             非常好的一本线性代数书籍              |
 |               **《3D 数学基础：图形和游戏》**                |                                                   |
 |                   **《全局光照算法技术》**                   |                                                   |
 |             **《计算机图形学：几何体数据结构》**             |                                                   |
@@ -311,6 +312,7 @@
 |                  **《Qt 6 C++ 开发指南》**                   |                                                   |
 | **[《Python for Data Analysis, 3E》](https://wesmckinney.com/book/)** |    使用 Python 进行数据分析第三版的电子书版本     |
 | **[《现代 C++ 语言核心特性解析》](https://github.com/XinranSix/docs/blob/main/books/%E7%8E%B0%E4%BB%A3C%2B%2B%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7%E8%A7%A3%E6%9E%90%202021%20(%E8%B0%A2%E4%B8%99%E5%A0%83)%20(Z-Library).pdf)** | 作者：谢丙堃，一书介绍了 C++ 11 ~ C++ 20 的新特性 |
+|                     **《STL 源码剖析》**                     |           侯捷老师写的解析 STL 源码的书           |
 
 
 
