@@ -22,6 +22,7 @@
 | **[Road2Coding](https://github.com/rd2coding/Road2Coding)**  |                 **CodeSheep 的学习路线仓库**                 |
 | **[Unity_Shaders_Book](https://github.com/candycat1992/Unity_Shaders_Book)** |              **《Unity Shader入门精要》源代码**              |
 |    **[CS-Base](https://github.com/xiaolincoder/CS-Base)**    |                  **小林 x 图解计算机基础**                   |
+| **[leetcode-master](https://github.com/youngyangyang04/leetcode-master)** | **《代码随想录》LeetCode 刷题攻略：200 道经典题目刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，支持 C++，Java，Python，Go，JavaScript 等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀** |
 |           **[CLRS](https://github.com/gzc/CLRS)**            | **Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (CLRS)** |
 | **[Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)** | **课程视频、PPT 和源代码：侯捷 C++ 系列；台大郭彦甫 MATLAB** |
 
