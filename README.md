@@ -5,6 +5,7 @@
 - [毛星云（知乎）](https://www.zhihu.com/people/mao-xing-yun)
 - [毛星云（GitHub）](https://github.com/QianMo)
 - [陈皓（CSDN）](https://blog.csdn.net/haoel)
+- [TheAlgorithms (Github)](https://github.com/TheAlgorithms)
 
 ## 优秀代码仓库
 
@@ -25,6 +26,7 @@
 | **[leetcode-master](https://github.com/youngyangyang04/leetcode-master)** | **《代码随想录》LeetCode 刷题攻略：200 道经典题目刷题顺序，共 60w 字的详细图解，视频难点剖析，50 余张思维导图，支持 C++，Java，Python，Go，JavaScript 等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀** |
 |           **[CLRS](https://github.com/gzc/CLRS)**            | **Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (CLRS)** |
 | **[Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)** | **课程视频、PPT 和源代码：侯捷 C++ 系列；台大郭彦甫 MATLAB** |
+| **[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** | **📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings** |
 
 ## 资料、资源链接、工具汇总
 
