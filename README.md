@@ -43,6 +43,7 @@
 | **[Integral Calculator](https://www.integral-calculator.com/)** |                           积分求解                           |
 | **[《Unity Shader入门精要》随书彩色插图](http://candycat1992.github.io/unity_shaders_book/unity_shaders_book_images.html)** |             《Unity Shader入门精要》随书彩色插图             |
 |        **[Compiler Explorer](https://godbolt.org/)**         | 在线 C++ 编译器，可用来分析汇编、做编译器兼容性测试、原型测试、支持 C++ 各种编译器的各种版本，还支持 Java、Python、Go 等语言。 |
+|       **[Taichi Lang](https://forum.taichi-lang.cn/)**       |                         太极图形论坛                         |
 
 
 ## 文档和教程
