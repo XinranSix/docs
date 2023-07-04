@@ -27,6 +27,7 @@
 |           **[CLRS](https://github.com/gzc/CLRS)**            | **Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen (CLRS)** |
 | **[Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)** | **课程视频、PPT 和源代码：侯捷 C++ 系列；台大郭彦甫 MATLAB** |
 | **[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** | **📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings** |
+| **[Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes)** |                 **Notes of Clean Code book**                 |
 
 ## 资料、资源链接、工具汇总
 
