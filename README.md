@@ -129,7 +129,7 @@
 <summary>嵌入式</summary>
 
 - [太极创客](http://www.taichi-maker.com/)
-- [2022 年 vim 的 C/C++ 配置](https://martins3.github.io/My-Linux-Config/docs/nvim.html)
+- [Linux系统编程（李慧琴）](https://www.bilibili.com/video/BV1yJ411S7r6/)
 </details>
 
 <details>
