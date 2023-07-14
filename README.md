@@ -28,6 +28,7 @@
 | **[Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)** | **课程视频、PPT 和源代码：侯捷 C++ 系列；台大郭彦甫 MATLAB** |
 | **[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** | **📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings** |
 | **[Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes)** |                 **Notes of Clean Code book**                 |
+| **[CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)** |                 **国人维护的 C++ 学习仓库**                  |
 
 ## 资料、资源链接、工具汇总
 
@@ -82,6 +83,7 @@
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 - [cppreference](https://en.cppreference.com/w/cpp/header)
 - [CSDN 陈皓专栏](https://haoel.blog.csdn.net/category_9198.html)
+- [C++ 那些事](https://light-city.github.io/)
 </details>
 
 <details>
